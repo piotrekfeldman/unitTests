@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-pl.testing.order="true" name="C:/Users/piotr/unittestingjava/src/test/java/pl/testing"><classes><class name="pl.testing.pl.testing.account.AccountTest"><methods><include name="MyTest"/><include name="Mytest2"/></methods></class></classes></test></suite>

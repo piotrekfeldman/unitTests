@@ -1,0 +1,1 @@
+{"employees": [Employee{firstName='Piotr', lastName='Pomidor', age=32, fullTime=true},Employee{firstName='Dominik', lastName='Krzyskow', age=40, fullTime=false}]}

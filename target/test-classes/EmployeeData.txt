@@ -1,0 +1,8 @@
+EmployeeData
+Piotr,Feldman
+32
+y
+EmployeeData
+Dominik,Krzyskow
+40
+n

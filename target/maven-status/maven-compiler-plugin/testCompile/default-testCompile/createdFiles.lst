@@ -1,0 +1,11 @@
+junit5exercisesTests\UnitTest.class
+pl\testing\OrderStatusTest.class
+junit5exercisesTests\Employee.class
+pl\testing\AddressTest.class
+pl\testing\OrderBackupTest.class
+pl\testing\OrderTest.class
+pl\testing\CartTest.class
+junit5exercisesTests\CoordinatesTest.class
+pl\testing\MealTest.class
+junit5exercisesTests\EmployeeMain.class
+pl\testing\AccountTest.class
